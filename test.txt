@@ -1,3 +1,3 @@
 test
 testdev
-test uat
+test dev
